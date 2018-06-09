@@ -1,9 +1,9 @@
-# Streamdata.io API Gallery - TypeForm Profiling
-This is a repository for managing the profiling of TypeForm. Right now, it is just a Github repository, README, and an [APIs.json](apis.md) outlining some of the details of TypeForm, including different links and artificats defining their operation.
+# Streamdata.io API Gallery - Typeform Profiling
+This is a repository for managing the profiling of Typeform. Right now, it is just a Github repository, README, and an [APIs.json](apis.md) outlining some of the details of Typeform, including different links and artificats defining their operation.
 
 Eventually, this repository will possess as much information about this entity as possible, and if it has an API, it will also possess OpenAPI definitions, and Postman Collections defining the surface area of the API. Each entry in the Streamdata.io API Gallery begins with a Github repository, then an APIs.json, and then OpenAPIs and Postman Collections when relevant.
 
-Once there is an OpenAPI for TypeForm, it will be available within the [Streamdata.io API Gallery](http://api.gallery.streamdata.io/), until then the companies profile will be used in a variety of other sites and applications.
+Once there is an OpenAPI for Typeform, it will be available within the [Streamdata.io API Gallery](http://api.gallery.streamdata.io/), until then the companies profile will be used in a variety of other sites and applications.
 
 You can visit the gallery at: http://api.gallery.streamdata.io/
 
